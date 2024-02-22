@@ -81,8 +81,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -93,8 +97,7 @@
               "RelativeToolTip": "FURNITURE\\Controllers\\FurnitureDataController.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAQwCQAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-20T15:53:26.628Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-20T15:53:26.628Z"
             },
             {
               "$type": "Document",
@@ -106,8 +109,7 @@
               "RelativeToolTip": "FURNITURE\\Controllers\\HomeController.cs",
               "ViewState": "AQIAABYAAAAAAAAAAAAawC0AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-18T08:57:53.471Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-18T08:57:53.471Z"
             },
             {
               "$type": "Document",
@@ -117,7 +119,7 @@
               "RelativeDocumentMoniker": "FURNITURE\\Views\\Home\\Index.cshtml",
               "ToolTip": "F:\\FURNITURE\\FURNITURE\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "FURNITURE\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAACIAAAAAAAAAAAAYwCwAAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-02-17T12:26:43.575Z",
               "EditorCaption": ""
@@ -129,8 +131,7 @@
               "DocumentMoniker": "ViewDataWindow_MSSQL__/JEEL_SQLEXPRESS/Furniture/True/SqlTable/dbo.FurnitureData.sql",
               "ToolTip": "dbo.FurnitureData [Data]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-02-21T02:56:49.286Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-21T02:56:49.286Z"
             },
             {
               "$type": "Document",
@@ -154,8 +155,7 @@
               "RelativeToolTip": "FURNITURE\\Models\\FurnitureDataModel.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAuwBMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-20T15:54:11.532Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-20T15:54:11.532Z"
             },
             {
               "$type": "Document",
