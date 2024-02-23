@@ -1,12 +1,12 @@
-﻿@*
+﻿
     For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
+
 @{
 }
 @model FURNITURE.Models.FurnitureViewModel
 
 
-<form  method="post" >
+<form method="post" enctype="multipart/form-data">
     <div class="form-group">
         <label class="control-label">Name:</label>
         <input asp-for="Name" class="form-control" />
@@ -14,18 +14,22 @@
     </div>
 
     <div class="form-group">
-        <label  class="control-label">Price:</label>
+        <label class="control-label">Price:</label>
         <input asp-for="Price" class="form-control" />
         <span asp-validation-for="Price" class="text-danger"></span>
     </div>
 
     <div class="form-group">
-        <label  class="control-label">Description:</label>
+        <label class="control-label">Description:</label>
         <textarea asp-for="Description" class="form-control"></textarea>
         <span asp-validation-for="Description" class="text-danger"></span>
     </div>
 
+    <div class="form-group">
+        <label class="control-label">Image:</label>
+        <input type="text" asp-for="ImagePath" class="form-control" />
+        <span asp-validation-for="ImagePath" class="text-danger"></span>
+    </div>
+
     <button type="submit" class="btn btn-primary">Submit</button>
 </form>
-
-

@@ -8,27 +8,17 @@ namespace FURNITURE.Controllers
 {
     public class HomeController : Controller
     {
-        /* private readonly ILogger<HomeController> _logger;
-
-         public HomeController(ILogger<HomeController> logger)
-         {
-             _logger = logger;
-
-         }*/
         private readonly FurnitureDbContext DbContext;
 
         public HomeController(FurnitureDbContext dbContext)
         {
-            this.DbContext = dbContext; 
+            this.DbContext = dbContext;
         }
-
-      
-
         public IActionResult CartPage()
         {
             return View();
         }
-       
+
         [HttpPost]
         public async Task<IActionResult> Index(FurnitureViewModel viewModel)
         {
@@ -38,11 +28,13 @@ namespace FURNITURE.Controllers
                 Price = viewModel.Price,
                 Description = viewModel.Description,
             };
+
             await DbContext.FurnitureData.AddAsync(furdata);
             await DbContext.SaveChangesAsync();
-            return View();
 
+            return RedirectToAction("Index"); // Redirect to the updated index page
         }
+
         [HttpGet]
         public async Task<IActionResult> Index()
         {

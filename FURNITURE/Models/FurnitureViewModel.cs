@@ -9,8 +9,13 @@ namespace FURNITURE.Models
 
         [Required]
         public decimal Price { get; set; }
-
         [Required]
         public string Description { get; set; }
+
+        [Required]
+        public string ImagePath { get; set; }
+
+
+
     }
 }

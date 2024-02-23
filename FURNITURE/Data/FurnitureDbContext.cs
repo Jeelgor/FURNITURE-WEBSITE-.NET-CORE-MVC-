@@ -7,10 +7,12 @@ namespace FURNITURE.Data
     {
         public FurnitureDbContext(DbContextOptions<FurnitureDbContext> options) : base(options)
         {
-
         }
 
         public DbSet<FurnitureDataModel> FurnitureData { get; set; }
+        public DbSet<ProductsDataModel> ProductsData { get; set; }
+        public DbSet<SofaDataModel>SofaData { get; set; }
+        public DbSet<ChairDataModel>Chairtbl { get; set; }
     }
-}
 
+}

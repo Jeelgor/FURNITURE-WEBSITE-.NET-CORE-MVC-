@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace FURNITURE.Migrations
 {
     [DbContext(typeof(FurnitureDbContext))]
-    [Migration("20240220160839_Initial")]
-    partial class Initial
+    [Migration("20240223141709_Second")]
+    partial class Second
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -24,7 +24,7 @@ namespace FURNITURE.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
-            modelBuilder.Entity("FURNITURE.Models.FurnitureDataModel", b =>
+            modelBuilder.Entity("FURNITURE.Models.SofaDataModel", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -32,7 +32,7 @@ namespace FURNITURE.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<string>("Description")
+                    b.Property<string>("ImagePath")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
@@ -45,7 +45,7 @@ namespace FURNITURE.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("FurnitureData");
+                    b.ToTable("SofaData");
                 });
 #pragma warning restore 612, 618
         }
