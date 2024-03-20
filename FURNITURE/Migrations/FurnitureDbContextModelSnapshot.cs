@@ -21,6 +21,29 @@ namespace FURNITURE.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
+            modelBuilder.Entity("FURNITURE.Models.AddCart", b =>
+                {
+                    b.Property<int>("ProductId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ProductId"));
+
+                    b.Property<string>("ProductName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<decimal>("ProductPrice")
+                        .HasColumnType("decimal(18,2)");
+
+                    b.Property<int>("Quantity")
+                        .HasColumnType("int");
+
+                    b.HasKey("ProductId");
+
+                    b.ToTable("CartData");
+                });
+
             modelBuilder.Entity("FURNITURE.Models.ChairDataModel", b =>
                 {
                     b.Property<int>("Id")
@@ -42,7 +65,7 @@ namespace FURNITURE.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("ChairData");
+                    b.ToTable("Chairtbl");
                 });
 
             modelBuilder.Entity("FURNITURE.Models.FurnitureDataModel", b =>

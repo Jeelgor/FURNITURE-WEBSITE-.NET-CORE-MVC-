@@ -18,7 +18,10 @@
                         Elevate your space with our stylish and comfortable furniture
                         pieces
                     </h5>
-                    <button class="clickb">Shop Now</button>
+                    <form asp-controller="Products" asp-action="ChairPage" method="get">
+                        <button type="submit" class="clickb">Shop Now</button>
+                    </form>
+
                 </div>
 
                 <div class="imgsec">
@@ -32,7 +35,7 @@
       @foreach (var furdata in Model)
         {
             <div class="Card">
-                <img src="Images/AllImages/@furdata.ImagePath" class="card-img-top" >
+                <img src="~/Images/AllImages/@furdata.ImagePath" class="card-img-top" >
                 <h5 class="card-title">@furdata.Name</h5>
                 <p>₹@furdata.Price</p>
             </div>
@@ -59,23 +62,20 @@
     <div class="d-flex mt-5" style="margin-left: 120px; transition: transform 0.3s ease-in-out;">
         <div>
             <a href="@Url.Action("StudyTable", "Products")">
-                <!-- Replace with the actual route and controller -->
-                <img src="Images/Logo/StudyLogo.png" style="height: 8vw; width: 8vw; margin-left: 222px" />
-                <p style="margin-left: 240px" class="mt-3">Study Table</p>
+                <img src="~/Images/Logo/StudyLogo.png" style="height: 8vw; width: 8vw; margin-left: 222px" />
+                <p style="margin-left: 240px" class="mt-3 text-black text-decoration-none">Study Table</p>
             </a>
         </div>
         <div>
             <a href="@Url.Action("ChairPage", "Products")">
-                <!-- Replace with the actual route and controller -->
-                <img src="Images/Logo/ChairLogo.png" style="height: 8vw; width: 8vw; margin-left: 222px" />
-                <p style="margin-left: 260px" class="mt-3">Chair</p>
+                <img src="~/Images/Logo/ChairLogo.png" style="height: 8vw; width: 8vw; margin-left: 222px" />
+                <p style="margin-left: 260px" class="mt-3 text-black text-decoration-none">Chair</p>
             </a>
         </div>
         <div>
             <a href="@Url.Action("SofaPage", "Products")">
-                <!-- Replace with the actual route and controller -->
-                <img src="Images/Logo/SofaLogo.png" style="height: 8vw; width: 8vw; margin-left: 222px" />
-                <p style="margin-left: 260px" class="mt-3">Sofa</p>
+                <img src="~/Images/Logo/SofaLogo.png" style="height: 8vw; width: 8vw; margin-left: 222px" />
+                <p style="margin-left: 260px" class="mt-3 text-black text-decoration-none">Sofa</p>
             </a>
         </div>
     </div>
@@ -93,23 +93,23 @@
 
                     <div class="col-md-3">
                         <h5>Top Categories</h5>
-                        <p>Versatile</p>
-                        <p>Diverse</p>
-                        <p>Dynamic</p>
+                        <p>Sofa</p>
+                        <p>Study Table</p>
+                        <p>Chair</p>
                     </div>
 
                     <div class="col-md-3">
                         <h5>Useful Links</h5>
-                        <p>Versatile</p>
-                        <p>Diverse</p>
-                        <p>Dynamic</p>
+                        <p>Cart</p>
+                        <p>Home</p>
+                        <p>Shop</p>
                     </div>
 
                     <div class="col-md-3">
                         <h5>Contacts</h5>
-                        <p>Versatile</p>
-                        <p>Diverse</p>
-                        <p>Dynamic</p>
+                        <p>Rajkot</p>
+                        <p>+91 53378884585</p>
+                        <p>furniture@gmail.com</p>
                     </div>
                 </div>
             </div>

@@ -14,6 +14,8 @@ namespace FURNITURE.Controllers
         {
             this.DbContext = dbContext;
         }
+
+
         public IActionResult CartPage()
         {
             return View();
@@ -32,7 +34,7 @@ namespace FURNITURE.Controllers
             await DbContext.FurnitureData.AddAsync(furdata);
             await DbContext.SaveChangesAsync();
 
-            return RedirectToAction("Index"); // Redirect to the updated index page
+            return RedirectToAction("Index","FurnitureData"); // Redirect to the updated index page
         }
 
         [HttpGet]
