@@ -3,16 +3,142 @@
   "WorkspaceRootPath": "F:\\FURNITURE\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\models\\usertbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\models\\usertbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\views\\loginregisterctr\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\views\\loginregisterctr\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\views\\loginregisterctr\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\views\\loginregisterctr\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\views\\loginregisterctr\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\views\\loginregisterctr\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\views\\products\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\views\\products\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\views\\products\\sofadetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\views\\products\\sofadetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\views\\products\\sttabledetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\views\\products\\sttabledetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\views\\products\\studytable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\views\\products\\studytable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\views\\products\\sofapage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\views\\products\\sofapage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\views\\products\\chairpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\views\\products\\chairpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\views\\products\\cartpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\views\\products\\cartpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\controllers\\loginregisterctrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\controllers\\loginregisterctrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\controllers\\productctrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\controllers\\productctrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\views\\products\\studytable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\views\\products\\studytable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\data\\loginregisterdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\data\\loginregisterdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\views\\products\\studyadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\views\\products\\studyadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\models\\productsdatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\models\\productsdatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\models\\chairmodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\models\\chairmodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\models\\chairdatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\models\\chairdatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\models\\furnitureviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\models\\furnitureviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\models\\furnituredatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\models\\furnituredatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\models\\addcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\models\\addcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/JEEL_SQLEXPRESS/Furniture/True/SqlTable/dbo.CartData.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\data\\furnituredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\data\\furnituredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\models\\checkoutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\models\\checkoutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\views\\home\\cartpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\views\\home\\cartpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/JEEL_SQLEXPRESS/Furniture/True/SqlTable/dbo.CheckoutData.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\cartservices\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\cartservices\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\controllers\\furnituredatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\controllers\\furnituredatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\views\\furnituredata\\furnituredataview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\views\\furnituredata\\furnituredataview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\views\\furnituredata\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\views\\furnituredata\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/JEEL_SQLEXPRESS/Furniture/True/SqlTable/dbo.SofaData.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
@@ -27,56 +153,12 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/JEEL_SQLEXPRESS/Furniture/True/SqlTable/dbo.FurnitureData.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\views\\home\\cartpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\views\\home\\cartpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\models\\addcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\models\\addcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\views\\products\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\views\\products\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\views\\products\\sofapage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\views\\products\\sofapage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\views\\products\\chairpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\views\\products\\chairpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\views\\loginregisterctr\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\views\\loginregisterctr\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\views\\loginregisterctr\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\views\\loginregisterctr\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\controllers\\loginregisterctrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\controllers\\loginregisterctrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -87,64 +169,16 @@
       "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\controllers\\furnituredatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\controllers\\furnituredatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\data\\furnituredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\data\\furnituredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\views\\loginregisterctr\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\views\\loginregisterctr\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\data\\loginregisterdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\data\\loginregisterdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\views\\products\\sttabledetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\views\\products\\sttabledetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\models\\furnituredatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\models\\furnituredatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\views\\products\\sofadetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\views\\products\\sofadetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\models\\productsdatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\models\\productsdatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\models\\chairmodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\models\\chairmodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\models\\sofadatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\models\\sofadatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\models\\chairdatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\models\\chairdatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\models\\productsdataview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\models\\productsdataview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\views\\furnituredata\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\views\\furnituredata\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\models\\sofa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -155,20 +189,12 @@
       "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\models\\sofadataview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\models\\furnitureviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\models\\furnitureviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\migrations\\20240223144953_ch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\migrations\\20240223144953_ch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\views\\furnituredata\\furnituredataview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|solutionrelative:furniture\\views\\furnituredata\\furnituredataview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C6FFE93-E666-4D94-B915-B0D5DE972FE4}|FURNITURE\\FURNITURE.csproj|f:\\furniture\\furniture\\wwwroot\\css\\homepage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -219,52 +245,455 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UserTbl.cs",
+              "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Models\\UserTbl.cs",
+              "RelativeDocumentMoniker": "FURNITURE\\Models\\UserTbl.cs",
+              "ToolTip": "F:\\FURNITURE\\FURNITURE\\Models\\UserTbl.cs",
+              "RelativeToolTip": "FURNITURE\\Models\\UserTbl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T12:32:55.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductDetail.cshtml",
+              "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Views\\Products\\ProductDetail.cshtml",
+              "RelativeDocumentMoniker": "FURNITURE\\Views\\Products\\ProductDetail.cshtml",
+              "ToolTip": "F:\\FURNITURE\\FURNITURE\\Views\\Products\\ProductDetail.cshtml",
+              "RelativeToolTip": "FURNITURE\\Views\\Products\\ProductDetail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-23T16:56:05.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SofaDetail.cshtml",
+              "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Views\\Products\\SofaDetail.cshtml",
+              "RelativeDocumentMoniker": "FURNITURE\\Views\\Products\\SofaDetail.cshtml",
+              "ToolTip": "F:\\FURNITURE\\FURNITURE\\Views\\Products\\SofaDetail.cshtml",
+              "RelativeToolTip": "FURNITURE\\Views\\Products\\SofaDetail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-26T07:36:07.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Views\\LoginRegisterCTR\\Register.cshtml",
+              "RelativeDocumentMoniker": "FURNITURE\\Views\\LoginRegisterCTR\\Register.cshtml",
+              "ToolTip": "F:\\FURNITURE\\FURNITURE\\Views\\LoginRegisterCTR\\Register.cshtml",
+              "RelativeToolTip": "FURNITURE\\Views\\LoginRegisterCTR\\Register.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAmwBgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T12:42:49.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Views\\LoginRegisterCTR\\Login.cshtml",
+              "RelativeDocumentMoniker": "FURNITURE\\Views\\LoginRegisterCTR\\Login.cshtml",
+              "ToolTip": "F:\\FURNITURE\\FURNITURE\\Views\\LoginRegisterCTR\\Login.cshtml",
+              "RelativeToolTip": "FURNITURE\\Views\\LoginRegisterCTR\\Login.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T12:21:25.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Views\\LoginRegisterCTR\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "FURNITURE\\Views\\LoginRegisterCTR\\Dashboard.cshtml",
+              "ToolTip": "F:\\FURNITURE\\FURNITURE\\Views\\LoginRegisterCTR\\Dashboard.cshtml",
+              "RelativeToolTip": "FURNITURE\\Views\\LoginRegisterCTR\\Dashboard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T12:25:28.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FURNITURE\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\FURNITURE\\FURNITURE\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FURNITURE\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-17T12:26:43.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StTableDetail.cshtml",
+              "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Views\\Products\\StTableDetail.cshtml",
+              "RelativeDocumentMoniker": "FURNITURE\\Views\\Products\\StTableDetail.cshtml",
+              "ToolTip": "F:\\FURNITURE\\FURNITURE\\Views\\Products\\StTableDetail.cshtml",
+              "RelativeToolTip": "FURNITURE\\Views\\Products\\StTableDetail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-26T07:44:38.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudyTable.cshtml",
+              "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Views\\Products\\StudyTable.cshtml",
+              "RelativeDocumentMoniker": "FURNITURE\\Views\\Products\\StudyTable.cshtml",
+              "ToolTip": "F:\\FURNITURE\\FURNITURE\\Views\\Products\\StudyTable.cshtml",
+              "RelativeToolTip": "FURNITURE\\Views\\Products\\StudyTable.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAwDgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-23T14:41:30.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SofaPage.cshtml",
+              "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Views\\Products\\SofaPage.cshtml",
+              "RelativeDocumentMoniker": "FURNITURE\\Views\\Products\\SofaPage.cshtml",
+              "ToolTip": "F:\\FURNITURE\\FURNITURE\\Views\\Products\\SofaPage.cshtml",
+              "RelativeToolTip": "FURNITURE\\Views\\Products\\SofaPage.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAwDAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-23T14:36:40.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ChairPage.cshtml",
+              "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Views\\Products\\ChairPage.cshtml",
+              "RelativeDocumentMoniker": "FURNITURE\\Views\\Products\\ChairPage.cshtml",
+              "ToolTip": "F:\\FURNITURE\\FURNITURE\\Views\\Products\\ChairPage.cshtml",
+              "RelativeToolTip": "FURNITURE\\Views\\Products\\ChairPage.cshtml",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAwDoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-23T14:22:45.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "CartPage.cshtml",
               "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Views\\Products\\CartPage.cshtml",
               "RelativeDocumentMoniker": "FURNITURE\\Views\\Products\\CartPage.cshtml",
               "ToolTip": "F:\\FURNITURE\\FURNITURE\\Views\\Products\\CartPage.cshtml",
               "RelativeToolTip": "FURNITURE\\Views\\Products\\CartPage.cshtml",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAAAFMAAAAAAAAA",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAFAAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-02-23T22:31:42.784Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "dbo.SofaData [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/JEEL_SQLEXPRESS/Furniture/True/SqlTable/dbo.SofaData.sql",
-              "ToolTip": "dbo.SofaData [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-02-23T14:19:20.459Z"
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FURNITURE\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\FURNITURE\\FURNITURE\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FURNITURE\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAD8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-21T16:18:48.486Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 13,
+              "Title": "LoginRegisterCTRController.cs",
+              "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Controllers\\LoginRegisterCTRController.cs",
+              "RelativeDocumentMoniker": "FURNITURE\\Controllers\\LoginRegisterCTRController.cs",
+              "ToolTip": "F:\\FURNITURE\\FURNITURE\\Controllers\\LoginRegisterCTRController.cs",
+              "RelativeToolTip": "FURNITURE\\Controllers\\LoginRegisterCTRController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowEoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T12:20:29.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductCTRController.cs",
+              "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Controllers\\ProductCTRController.cs",
+              "RelativeDocumentMoniker": "FURNITURE\\Controllers\\ProductCTRController.cs",
+              "ToolTip": "F:\\FURNITURE\\FURNITURE\\Controllers\\ProductCTRController.cs",
+              "RelativeToolTip": "FURNITURE\\Controllers\\ProductCTRController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T10:55:42.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "FURNITURE\\Controllers\\ProductsController.cs",
               "ToolTip": "F:\\FURNITURE\\FURNITURE\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "FURNITURE\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAFAAAAAAAAAAAAAUwGkAAAAeAAAA",
+              "ViewState": "AQIAAJcAAAAAAAAAAAAQwKYAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-23T08:57:12.187Z"
+              "WhenOpened": "2024-02-23T08:57:12.187Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "StudyTable.cshtml",
-              "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Views\\Products\\StudyTable.cshtml",
-              "RelativeDocumentMoniker": "FURNITURE\\Views\\Products\\StudyTable.cshtml",
-              "ToolTip": "F:\\FURNITURE\\FURNITURE\\Views\\Products\\StudyTable.cshtml",
-              "RelativeToolTip": "FURNITURE\\Views\\Products\\StudyTable.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACAAAAAAAAAA",
+              "DocumentIndex": 16,
+              "Title": "LoginRegisterDbContext.cs",
+              "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Data\\LoginRegisterDbContext.cs",
+              "RelativeDocumentMoniker": "FURNITURE\\Data\\LoginRegisterDbContext.cs",
+              "ToolTip": "F:\\FURNITURE\\FURNITURE\\Data\\LoginRegisterDbContext.cs",
+              "RelativeToolTip": "FURNITURE\\Data\\LoginRegisterDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T11:09:30.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StudyAdmin.cshtml",
+              "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Views\\Products\\StudyAdmin.cshtml",
+              "RelativeDocumentMoniker": "FURNITURE\\Views\\Products\\StudyAdmin.cshtml",
+              "ToolTip": "F:\\FURNITURE\\FURNITURE\\Views\\Products\\StudyAdmin.cshtml",
+              "RelativeToolTip": "FURNITURE\\Views\\Products\\StudyAdmin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-23T14:41:30.559Z"
+              "WhenOpened": "2024-03-25T11:49:09.418Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 18,
+              "Title": "ProductsDataModel.cs",
+              "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Models\\ProductsDataModel.cs",
+              "RelativeDocumentMoniker": "FURNITURE\\Models\\ProductsDataModel.cs",
+              "ToolTip": "F:\\FURNITURE\\FURNITURE\\Models\\ProductsDataModel.cs",
+              "RelativeToolTip": "FURNITURE\\Models\\ProductsDataModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T14:12:53.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ChairModelView.cs",
+              "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Models\\ChairModelView.cs",
+              "RelativeDocumentMoniker": "FURNITURE\\Models\\ChairModelView.cs",
+              "ToolTip": "F:\\FURNITURE\\FURNITURE\\Models\\ChairModelView.cs",
+              "RelativeToolTip": "FURNITURE\\Models\\ChairModelView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T14:37:43.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ChairDataModel.cs",
+              "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Models\\ChairDataModel.cs",
+              "RelativeDocumentMoniker": "FURNITURE\\Models\\ChairDataModel.cs",
+              "ToolTip": "F:\\FURNITURE\\FURNITURE\\Models\\ChairDataModel.cs",
+              "RelativeToolTip": "FURNITURE\\Models\\ChairDataModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T14:37:30.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FurnitureViewModel.cs",
+              "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Models\\FurnitureViewModel.cs",
+              "RelativeDocumentMoniker": "FURNITURE\\Models\\FurnitureViewModel.cs",
+              "ToolTip": "F:\\FURNITURE\\FURNITURE\\Models\\FurnitureViewModel.cs",
+              "RelativeToolTip": "FURNITURE\\Models\\FurnitureViewModel.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAYwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T03:02:25.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FurnitureDataModel.cs",
+              "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Models\\FurnitureDataModel.cs",
+              "RelativeDocumentMoniker": "FURNITURE\\Models\\FurnitureDataModel.cs",
+              "ToolTip": "F:\\FURNITURE\\FURNITURE\\Models\\FurnitureDataModel.cs",
+              "RelativeToolTip": "FURNITURE\\Models\\FurnitureDataModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T15:54:11.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AddCart.cs",
+              "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Models\\AddCart.cs",
+              "RelativeDocumentMoniker": "FURNITURE\\Models\\AddCart.cs",
+              "ToolTip": "F:\\FURNITURE\\FURNITURE\\Models\\AddCart.cs",
+              "RelativeToolTip": "FURNITURE\\Models\\AddCart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T21:54:59.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "dbo.CartData [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/JEEL_SQLEXPRESS/Furniture/True/SqlTable/dbo.CartData.sql",
+              "ToolTip": "dbo.CartData [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-03-25T11:18:36.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FurnitureDbContext.cs",
+              "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Data\\FurnitureDbContext.cs",
+              "RelativeDocumentMoniker": "FURNITURE\\Data\\FurnitureDbContext.cs",
+              "ToolTip": "F:\\FURNITURE\\FURNITURE\\Data\\FurnitureDbContext.cs",
+              "RelativeToolTip": "FURNITURE\\Data\\FurnitureDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T16:02:04.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CartPage.cshtml",
+              "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Views\\Home\\CartPage.cshtml",
+              "RelativeDocumentMoniker": "FURNITURE\\Views\\Home\\CartPage.cshtml",
+              "ToolTip": "F:\\FURNITURE\\FURNITURE\\Views\\Home\\CartPage.cshtml",
+              "RelativeToolTip": "FURNITURE\\Views\\Home\\CartPage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T08:58:55.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CheckoutViewModel.cs",
+              "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Models\\CheckoutViewModel.cs",
+              "RelativeDocumentMoniker": "FURNITURE\\Models\\CheckoutViewModel.cs",
+              "ToolTip": "F:\\FURNITURE\\FURNITURE\\Models\\CheckoutViewModel.cs",
+              "RelativeToolTip": "FURNITURE\\Models\\CheckoutViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T11:22:18.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "dbo.CheckoutData [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/JEEL_SQLEXPRESS/Furniture/True/SqlTable/dbo.CheckoutData.sql",
+              "ToolTip": "dbo.CheckoutData [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-03-25T11:02:52.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "FURNITURE\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "F:\\FURNITURE\\FURNITURE\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "FURNITURE\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T12:50:05.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FURNITURE\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\FURNITURE\\FURNITURE\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FURNITURE\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T08:57:53.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\CartServices\\CartService.cs",
+              "RelativeDocumentMoniker": "FURNITURE\\CartServices\\CartService.cs",
+              "ToolTip": "F:\\FURNITURE\\FURNITURE\\CartServices\\CartService.cs",
+              "RelativeToolTip": "FURNITURE\\CartServices\\CartService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T10:57:28.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FurnitureDataController.cs",
+              "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Controllers\\FurnitureDataController.cs",
+              "RelativeDocumentMoniker": "FURNITURE\\Controllers\\FurnitureDataController.cs",
+              "ToolTip": "F:\\FURNITURE\\FURNITURE\\Controllers\\FurnitureDataController.cs",
+              "RelativeToolTip": "FURNITURE\\Controllers\\FurnitureDataController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T15:53:26.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FurnitureDataView.cshtml",
+              "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Views\\FurnitureData\\FurnitureDataView.cshtml",
+              "RelativeDocumentMoniker": "FURNITURE\\Views\\FurnitureData\\FurnitureDataView.cshtml",
+              "ToolTip": "F:\\FURNITURE\\FURNITURE\\Views\\FurnitureData\\FurnitureDataView.cshtml",
+              "RelativeToolTip": "FURNITURE\\Views\\FurnitureData\\FurnitureDataView.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-20T16:00:35.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Views\\FurnitureData\\List.cshtml",
+              "RelativeDocumentMoniker": "FURNITURE\\Views\\FurnitureData\\List.cshtml",
+              "ToolTip": "F:\\FURNITURE\\FURNITURE\\Views\\FurnitureData\\List.cshtml",
+              "RelativeToolTip": "FURNITURE\\Views\\FurnitureData\\List.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-21T16:16:25.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
               "Title": "dbo.Chairtbl [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/JEEL_SQLEXPRESS/Furniture/True/SqlTable/dbo.Chairtbl.sql",
               "ToolTip": "dbo.Chairtbl [Data]",
@@ -273,7 +702,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 35,
+              "Title": "dbo.SofaData [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/JEEL_SQLEXPRESS/Furniture/True/SqlTable/dbo.SofaData.sql",
+              "ToolTip": "dbo.SofaData [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-02-23T14:19:20.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
               "Title": "dbo.ProductsData [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/JEEL_SQLEXPRESS/Furniture/True/SqlTable/dbo.ProductsData.sql",
               "ToolTip": "dbo.ProductsData [Data]",
@@ -282,31 +720,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CartPage.cshtml",
-              "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Views\\Home\\CartPage.cshtml",
-              "RelativeDocumentMoniker": "FURNITURE\\Views\\Home\\CartPage.cshtml",
-              "ToolTip": "F:\\FURNITURE\\FURNITURE\\Views\\Home\\CartPage.cshtml",
-              "RelativeToolTip": "FURNITURE\\Views\\Home\\CartPage.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-18T08:58:55.442Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ProductDetail.cshtml",
-              "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Views\\Products\\ProductDetail.cshtml",
-              "RelativeDocumentMoniker": "FURNITURE\\Views\\Products\\ProductDetail.cshtml",
-              "ToolTip": "F:\\FURNITURE\\FURNITURE\\Views\\Products\\ProductDetail.cshtml",
-              "RelativeToolTip": "FURNITURE\\Views\\Products\\ProductDetail.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-23T16:56:05.612Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 38,
               "Title": "dbo.FurnitureData [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/JEEL_SQLEXPRESS/Furniture/True/SqlTable/dbo.FurnitureData.sql",
               "ToolTip": "dbo.FurnitureData [Data]",
@@ -315,103 +729,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AddCart.cs",
-              "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Models\\AddCart.cs",
-              "RelativeDocumentMoniker": "FURNITURE\\Models\\AddCart.cs",
-              "ToolTip": "F:\\FURNITURE\\FURNITURE\\Models\\AddCart.cs",
-              "RelativeToolTip": "FURNITURE\\Models\\AddCart.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-23T21:54:59.253Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "SofaPage.cshtml",
-              "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Views\\Products\\SofaPage.cshtml",
-              "RelativeDocumentMoniker": "FURNITURE\\Views\\Products\\SofaPage.cshtml",
-              "ToolTip": "F:\\FURNITURE\\FURNITURE\\Views\\Products\\SofaPage.cshtml",
-              "RelativeToolTip": "FURNITURE\\Views\\Products\\SofaPage.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAC8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-23T14:36:40.678Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ChairPage.cshtml",
-              "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Views\\Products\\ChairPage.cshtml",
-              "RelativeDocumentMoniker": "FURNITURE\\Views\\Products\\ChairPage.cshtml",
-              "ToolTip": "F:\\FURNITURE\\FURNITURE\\Views\\Products\\ChairPage.cshtml",
-              "RelativeToolTip": "FURNITURE\\Views\\Products\\ChairPage.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-23T14:22:45.985Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Views\\LoginRegisterCTR\\Login.cshtml",
-              "RelativeDocumentMoniker": "FURNITURE\\Views\\LoginRegisterCTR\\Login.cshtml",
-              "ToolTip": "F:\\FURNITURE\\FURNITURE\\Views\\LoginRegisterCTR\\Login.cshtml",
-              "RelativeToolTip": "FURNITURE\\Views\\LoginRegisterCTR\\Login.cshtml",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAowC8AAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-27T12:21:25.55Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "LoginRegisterCTRController.cs",
-              "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Controllers\\LoginRegisterCTRController.cs",
-              "RelativeDocumentMoniker": "FURNITURE\\Controllers\\LoginRegisterCTRController.cs",
-              "ToolTip": "F:\\FURNITURE\\FURNITURE\\Controllers\\LoginRegisterCTRController.cs",
-              "RelativeToolTip": "FURNITURE\\Controllers\\LoginRegisterCTRController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T12:20:29.594Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Views\\LoginRegisterCTR\\Register.cshtml",
-              "RelativeDocumentMoniker": "FURNITURE\\Views\\LoginRegisterCTR\\Register.cshtml",
-              "ToolTip": "F:\\FURNITURE\\FURNITURE\\Views\\LoginRegisterCTR\\Register.cshtml",
-              "RelativeToolTip": "FURNITURE\\Views\\LoginRegisterCTR\\Register.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAmwCgAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-27T12:42:49.423Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "FURNITURE\\Views\\Home\\Index.cshtml",
-              "ToolTip": "F:\\FURNITURE\\FURNITURE\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "FURNITURE\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGAAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-17T12:26:43.575Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "FURNITURE\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "F:\\FURNITURE\\FURNITURE\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "FURNITURE\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAAFQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-21T16:18:48.486Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 39,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Program.cs",
               "RelativeDocumentMoniker": "FURNITURE\\Program.cs",
@@ -423,7 +741,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 40,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "FURNITURE\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -435,19 +753,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "FURNITURE\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "F:\\FURNITURE\\FURNITURE\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "FURNITURE\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-27T12:50:05.537Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 41,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "FURNITURE\\Views\\_ViewStart.cshtml",
@@ -459,43 +765,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "FurnitureDataController.cs",
-              "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Controllers\\FurnitureDataController.cs",
-              "RelativeDocumentMoniker": "FURNITURE\\Controllers\\FurnitureDataController.cs",
-              "ToolTip": "F:\\FURNITURE\\FURNITURE\\Controllers\\FurnitureDataController.cs",
-              "RelativeToolTip": "FURNITURE\\Controllers\\FurnitureDataController.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAgwDAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-20T15:53:26.628Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "FurnitureDbContext.cs",
-              "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Data\\FurnitureDbContext.cs",
-              "RelativeDocumentMoniker": "FURNITURE\\Data\\FurnitureDbContext.cs",
-              "ToolTip": "F:\\FURNITURE\\FURNITURE\\Data\\FurnitureDbContext.cs",
-              "RelativeToolTip": "FURNITURE\\Data\\FurnitureDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-20T16:02:04.188Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "FURNITURE\\Controllers\\HomeController.cs",
-              "ToolTip": "F:\\FURNITURE\\FURNITURE\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "FURNITURE\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAgwCsAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-18T08:57:53.471Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 42,
               "Title": "appsettings.json",
               "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\appsettings.json",
               "RelativeDocumentMoniker": "FURNITURE\\appsettings.json",
@@ -507,7 +777,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 43,
               "Title": "launchSettings.json",
               "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "FURNITURE\\Properties\\launchSettings.json",
@@ -519,91 +789,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Dashboard.cshtml",
-              "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Views\\LoginRegisterCTR\\Dashboard.cshtml",
-              "RelativeDocumentMoniker": "FURNITURE\\Views\\LoginRegisterCTR\\Dashboard.cshtml",
-              "ToolTip": "F:\\FURNITURE\\FURNITURE\\Views\\LoginRegisterCTR\\Dashboard.cshtml",
-              "RelativeToolTip": "FURNITURE\\Views\\LoginRegisterCTR\\Dashboard.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-27T12:25:28.782Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "LoginRegisterDbContext.cs",
-              "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Data\\LoginRegisterDbContext.cs",
-              "RelativeDocumentMoniker": "FURNITURE\\Data\\LoginRegisterDbContext.cs",
-              "ToolTip": "F:\\FURNITURE\\FURNITURE\\Data\\LoginRegisterDbContext.cs",
-              "RelativeToolTip": "FURNITURE\\Data\\LoginRegisterDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T11:09:30.718Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "StTableDetail.cshtml",
-              "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Views\\Products\\StTableDetail.cshtml",
-              "RelativeDocumentMoniker": "FURNITURE\\Views\\Products\\StTableDetail.cshtml",
-              "ToolTip": "F:\\FURNITURE\\FURNITURE\\Views\\Products\\StTableDetail.cshtml",
-              "RelativeToolTip": "FURNITURE\\Views\\Products\\StTableDetail.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-26T07:44:38.707Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "FurnitureDataModel.cs",
-              "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Models\\FurnitureDataModel.cs",
-              "RelativeDocumentMoniker": "FURNITURE\\Models\\FurnitureDataModel.cs",
-              "ToolTip": "F:\\FURNITURE\\FURNITURE\\Models\\FurnitureDataModel.cs",
-              "RelativeToolTip": "FURNITURE\\Models\\FurnitureDataModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-20T15:54:11.532Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "SofaDetail.cshtml",
-              "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Views\\Products\\SofaDetail.cshtml",
-              "RelativeDocumentMoniker": "FURNITURE\\Views\\Products\\SofaDetail.cshtml",
-              "ToolTip": "F:\\FURNITURE\\FURNITURE\\Views\\Products\\SofaDetail.cshtml",
-              "RelativeToolTip": "FURNITURE\\Views\\Products\\SofaDetail.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-26T07:36:07.706Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "ProductsDataModel.cs",
-              "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Models\\ProductsDataModel.cs",
-              "RelativeDocumentMoniker": "FURNITURE\\Models\\ProductsDataModel.cs",
-              "ToolTip": "F:\\FURNITURE\\FURNITURE\\Models\\ProductsDataModel.cs",
-              "RelativeToolTip": "FURNITURE\\Models\\ProductsDataModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-23T14:12:53.915Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "ChairModelView.cs",
-              "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Models\\ChairModelView.cs",
-              "RelativeDocumentMoniker": "FURNITURE\\Models\\ChairModelView.cs",
-              "ToolTip": "F:\\FURNITURE\\FURNITURE\\Models\\ChairModelView.cs",
-              "RelativeToolTip": "FURNITURE\\Models\\ChairModelView.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-23T14:37:43.692Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 44,
               "Title": "SofaDataModel.cs",
               "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Models\\SofaDataModel.cs",
               "RelativeDocumentMoniker": "FURNITURE\\Models\\SofaDataModel.cs",
@@ -615,19 +801,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "ChairDataModel.cs",
-              "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Models\\ChairDataModel.cs",
-              "RelativeDocumentMoniker": "FURNITURE\\Models\\ChairDataModel.cs",
-              "ToolTip": "F:\\FURNITURE\\FURNITURE\\Models\\ChairDataModel.cs",
-              "RelativeToolTip": "FURNITURE\\Models\\ChairDataModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-23T14:37:30.846Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 45,
               "Title": "ProductsDataView.cs",
               "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Models\\ProductsDataView.cs",
               "RelativeDocumentMoniker": "FURNITURE\\Models\\ProductsDataView.cs",
@@ -639,19 +813,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "List.cshtml",
-              "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Views\\FurnitureData\\List.cshtml",
-              "RelativeDocumentMoniker": "FURNITURE\\Views\\FurnitureData\\List.cshtml",
-              "ToolTip": "F:\\FURNITURE\\FURNITURE\\Views\\FurnitureData\\List.cshtml",
-              "RelativeToolTip": "FURNITURE\\Views\\FurnitureData\\List.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-21T16:16:25.486Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 46,
               "Title": "Sofa.cs",
               "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Models\\Sofa.cs",
               "RelativeDocumentMoniker": "FURNITURE\\Models\\Sofa.cs",
@@ -663,7 +825,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 47,
               "Title": "SofaDataview.cs",
               "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Models\\SofaDataview.cs",
               "RelativeDocumentMoniker": "FURNITURE\\Models\\SofaDataview.cs",
@@ -675,19 +837,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "FurnitureViewModel.cs",
-              "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Models\\FurnitureViewModel.cs",
-              "RelativeDocumentMoniker": "FURNITURE\\Models\\FurnitureViewModel.cs",
-              "ToolTip": "F:\\FURNITURE\\FURNITURE\\Models\\FurnitureViewModel.cs",
-              "RelativeToolTip": "FURNITURE\\Models\\FurnitureViewModel.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAYwBAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-21T03:02:25.03Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 48,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "FURNITURE\\Models\\ErrorViewModel.cs",
@@ -699,7 +849,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 49,
               "Title": "20240223144953_ch.cs",
               "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Migrations\\20240223144953_ch.cs",
               "RelativeDocumentMoniker": "FURNITURE\\Migrations\\20240223144953_ch.cs",
@@ -711,7 +861,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 56,
               "Title": "20240223141851_Third.cs",
               "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Migrations\\20240223141851_Third.cs",
               "RelativeDocumentMoniker": "FURNITURE\\Migrations\\20240223141851_Third.cs",
@@ -723,7 +873,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 57,
               "Title": "20240223141709_Second.cs",
               "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Migrations\\20240223141709_Second.cs",
               "RelativeDocumentMoniker": "FURNITURE\\Migrations\\20240223141709_Second.cs",
@@ -735,19 +885,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "FurnitureDataView.cshtml",
-              "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Views\\FurnitureData\\FurnitureDataView.cshtml",
-              "RelativeDocumentMoniker": "FURNITURE\\Views\\FurnitureData\\FurnitureDataView.cshtml",
-              "ToolTip": "F:\\FURNITURE\\FURNITURE\\Views\\FurnitureData\\FurnitureDataView.cshtml",
-              "RelativeToolTip": "FURNITURE\\Views\\FurnitureData\\FurnitureDataView.cshtml",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAUwCMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-20T16:00:35.084Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 52,
               "Title": "List.cshtml",
               "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Views\\ProductCTR\\List.cshtml",
               "RelativeDocumentMoniker": "FURNITURE\\Views\\ProductCTR\\List.cshtml",
@@ -758,7 +896,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 53,
               "Title": "ProductDbContextModelSnapshot.cs",
               "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Migrations\\ProductDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "FURNITURE\\Migrations\\ProductDbContextModelSnapshot.cs",
@@ -769,7 +907,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 54,
               "Title": "20240223093527_Product.Designer.cs",
               "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Migrations\\20240223093527_Product.Designer.cs",
               "RelativeDocumentMoniker": "FURNITURE\\Migrations\\20240223093527_Product.Designer.cs",
@@ -780,7 +918,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 55,
               "Title": "20240223055350_product.Designer.cs",
               "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\Migrations\\20240223055350_product.Designer.cs",
               "RelativeDocumentMoniker": "FURNITURE\\Migrations\\20240223055350_product.Designer.cs",
@@ -791,7 +929,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 50,
               "Title": "HomePage.css",
               "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\wwwroot\\css\\HomePage.css",
               "RelativeDocumentMoniker": "FURNITURE\\wwwroot\\css\\HomePage.css",
@@ -803,7 +941,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 51,
               "Title": "site.css",
               "DocumentMoniker": "F:\\FURNITURE\\FURNITURE\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "FURNITURE\\wwwroot\\css\\site.css",

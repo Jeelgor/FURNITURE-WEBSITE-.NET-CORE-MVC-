@@ -5,8 +5,13 @@ namespace FURNITURE.Data
 {
     public class FurnitureDbContext : DbContext
     {
+        public FurnitureDbContext()
+        {
+        }
+
         public FurnitureDbContext(DbContextOptions<FurnitureDbContext> options) : base(options)
         {
+
         }
 
         public DbSet<FurnitureDataModel> FurnitureData { get; set; }
