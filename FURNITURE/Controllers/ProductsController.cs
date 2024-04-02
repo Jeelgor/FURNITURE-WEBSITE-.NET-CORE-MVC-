@@ -180,12 +180,49 @@ public class ProductsController : Controller
 
         return RedirectToAction("CartPage");
     }
-
-    [HttpPost]
-    public async Task<IActionResult> Checkout()
+    public IActionResult Checkout()
     {
-        return RedirectToAction("CartPage");
+        return RedirectToAction("Index","Home");
     }
+
+    /*[HttpPost]
+    public IActionResult ProcessCheckout(List<AddCart> items)
+    {
+        if (items == null || items.Count == 0)
+        {
+            return BadRequest("Invalid checkout data. Items list is null or empty.");
+        }
+
+        foreach (var item in items)
+        {
+            var checkoutData = new CheckoutViewModel 
+            {
+                ProductId = item.ProductId,
+                ProductName = item.ProductName,
+                ProductPrice = item.ProductPrice,
+                Images = item.Images
+            };
+
+            DbContext.CheckoutData.Add(checkoutData);
+        }
+
+        DbContext.SaveChanges();
+
+        var savedItemsCount = DbContext.CheckoutData.Count();
+
+        if (savedItemsCount > 0)
+        {
+            return RedirectToAction("ThankYou");
+        }
+        else
+        {
+            return BadRequest("Failed to save the order. Please try again later.");
+        }
+    }
+    public IActionResult ThankYou()
+    {
+        return View();
+    }*/
 }
 
 

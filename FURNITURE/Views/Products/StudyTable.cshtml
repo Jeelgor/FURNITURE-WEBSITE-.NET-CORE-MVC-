@@ -14,8 +14,8 @@
             <div class="Card">
                 <a asp-controller="Products" asp-action="StTableDetail" asp-route-id="@furdata.Id">
                     <img src="~/Images/AllImages/@furdata.ImagePath" class="card-img-top">
-                    <h5 class="card-title">@furdata.Name</h5>
-                    <p>₹@furdata.Price</p>
+                    <h5 class="card-title text-black">@furdata.Name</h5>
+                    <p class="text-black">₹@furdata.Price</p>
                 </a>
             </div>
         }
